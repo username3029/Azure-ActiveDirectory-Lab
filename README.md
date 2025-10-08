@@ -9,4 +9,7 @@ A homelab project for simulating a small network in Azure using Windows Server 2
 - Windows Server 2022
 - Windows 11
 
+
+
+
 ## Phase 1 – Server Setup (Windows Server 2022 in Azure)
