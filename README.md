@@ -34,5 +34,23 @@ Steps taken:
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/0fa18097-e65f-4818-bc82-58dc7f6fe9fe" />
 
+The next step is to promote the server to domain controller.
+
+Steps taken :
+1. In add roles and features wizard, **Promote this server to a domain controller** option was selecten.
+2. Selected **“Add a new forest”**  
+3. In this simulated lab, the name 'adlab.local' was chosen.
+4. Kept **DNS** and **Global Catalog (GC)** selected.
+5. Set a **DSRM password** 
+7. Retained default settings for subsequent options and proceeded to install.
+
+Verification of Installation:
+Server Manager -> Tools -> Active Directory Users and Computers
+
+Here, adlab.local dropdown with users is visible, verifying the installation.
+
+   <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/65025abc-a99a-4d1b-a40f-b08b3a3b69dd" />
+
+
 
 
