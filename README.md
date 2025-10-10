@@ -65,7 +65,8 @@ First, I check the Azure Portal to note down the private IP address of the serve
 Control Panel > Network and Sharing Center > Change adapter settings > Select active adapter (in this case, ethernet) > Properties.
 Here, set the preferred DNS as the Private IP of the domain controller.
 
-<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/d9e83fa7-b2c9-4f74-94e7-0c5961078e60" />
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/b702d81c-601f-4d35-b25c-dda18dba2d07" />
+
 
 
 
