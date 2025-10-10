@@ -54,7 +54,18 @@ Here, adlab.local dropdown with users is visible, verifying the installation.
 Following, I created a new organisational unit titled 'employees'.
 I create two new users in this container: John Smith & Alice Davis
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/104dc4de-dfd6-48ff-acbb-fb8c5226d4fd" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/104dc4de-dfd6-48ff-acbb-fb8c5226d4fd" 
+
+ ## Connecting an Employee’s Computer (Windows 11 Client VM) 
+
+For this step, a Windows 10 client VM was created in Azure.
+
+First, I check the Azure Portal to note down the private IP address of the server VM in the networking section (10.0.0.4)
+
+Control Panel > Network and Sharing Center > Change adapter settings > Select active adapter (in this case, ethernet) > Properties.
+Here, set the preferred DNS as the Private IP of the domain controller.
+
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/d9e83fa7-b2c9-4f74-94e7-0c5961078e60" />
 
 
 
