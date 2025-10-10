@@ -51,6 +51,13 @@ Here, adlab.local dropdown with users is visible, verifying the installation.
 
    <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/65025abc-a99a-4d1b-a40f-b08b3a3b69dd" />
 
+Following, I created a new organisational unit titled 'employees'.
+I create two new users in this container: John Smith & Alice Davis
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/104dc4de-dfd6-48ff-acbb-fb8c5226d4fd" />
+
+
+
 
 
 
