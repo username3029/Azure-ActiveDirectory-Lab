@@ -44,8 +44,6 @@ Steps taken :
 5. Set a **DSRM password** 
 7. Retained default settings for subsequent options and proceeded to install.
 
-After the restart, logged in as **ADLAB\Administrator** via Remote Desktop to access the admin account of the domain.
-
 Verification of Installation:
 Server Manager -> Tools -> Active Directory Users and Computers
 
