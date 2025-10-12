@@ -1,5 +1,5 @@
 # Azure Active Directory Lab
-A homelab project for simulating a small network in Azure using Windows Server 2025 and Windows 11 clients
+A homelab project for simulating a small network in Azure using Windows Server 2025 and Windows 10 clients
 ## Environments and Technologies Used
 - Microsoft Azure
 - Active Directory Domain Services
