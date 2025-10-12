@@ -47,7 +47,7 @@ Steps taken :
 Verification of Installation:
 Server Manager -> Tools -> Active Directory Users and Computers
 
-Here, adlab.local dropdown with users is visible, verifying the installation.
+Here, adlab.local dropdown with users is visible, verifying the installation.T
 
    <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/65025abc-a99a-4d1b-a40f-b08b3a3b69dd" />
 
@@ -63,9 +63,16 @@ For this step, a Windows 10 client VM was created in Azure.
 First, I check the Azure Portal to note down the private IP address of the server VM in the networking section (10.0.0.4)
 
 Control Panel > Network and Sharing Center > Change adapter settings > Select active adapter (in this case, ethernet) > Properties.
-Here, set the preferred DNS as the Private IP of the domain controller.
+Here, the preferred DNS was set to Private IP of the domain controller.
 
 <img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/b702d81c-601f-4d35-b25c-dda18dba2d07" />
+
+To join the client VM to the adlab.local domain, the domain membership was changed through the 'computer name' section of system properties.
+
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/56c001d5-76dc-4c60-af13-2217b62551e6" />
+
+
+
 
 
 
