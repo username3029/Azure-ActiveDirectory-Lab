@@ -7,7 +7,7 @@ A homelab project for simulating a small network in Azure using Windows Server 2
 - Remote Desktop
 ## Operating Systems Used
 - Windows Server 2025
-- Windows 11
+- Windows 10 (24H2)
 
 
 ## VM Configurations
@@ -77,8 +77,10 @@ Now, John Smith's account can be accessed and a fully functioning Azure AD Homel
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d0c8d376-44ce-4b3e-b926-4f1e8f22b31e" />
 
 
+# Next Steps
 
-
+- Plan to establish Group Policy Objects (GPOs) for password policies
+- Aim to simulate and document 
 
 
 
