@@ -74,7 +74,7 @@ To join the client VM to the adlab.local domain, the domain membership was chang
 Since client user accounts can only be accessed via Remote Desktop (on cloud VM), users jsmith & adavis were given remote desktop access privileges via the **remote** section of **System Properties**.
 Now, John Smith's account can be accessed and a fully functioning Azure AD Homelab has been set up.
 
-<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/d0c8d376-44ce-4b3e-b926-4f1e8f22b31e" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d0c8d376-44ce-4b3e-b926-4f1e8f22b31e" />
 
 
 
