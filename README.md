@@ -67,7 +67,7 @@ Here, the preferred DNS was set to Private IP of the domain controller.
 
 <img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/b702d81c-601f-4d35-b25c-dda18dba2d07" />
 
-To join the client VM to the adlab.local domain, the domain membership was changed through the 'computer name' section of system properties.
+To join the client VM to the adlab.local domain, the domain membership was changed through the **computer name** section in **system properties**
 
 <img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/56c001d5-76dc-4c60-af13-2217b62551e6" />
 
