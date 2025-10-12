@@ -71,6 +71,11 @@ To join the client VM to the adlab.local domain, the domain membership was chang
 
 <img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/56c001d5-76dc-4c60-af13-2217b62551e6" />
 
+Since client user accounts can only be accessed via Remote Desktop (on cloud VM), users jsmith & adavis were given remote desktop access privileges via the **remote** section of **System Properties**
+
+
+
+
 
 
 
