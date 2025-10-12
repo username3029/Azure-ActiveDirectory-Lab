@@ -80,7 +80,7 @@ Now, John Smith's account can be accessed and a fully functioning Azure AD Homel
 # Next Steps
 
 - Plan to establish Group Policy Objects (GPOs) for password policies
-- Aim to simulate and document 
+- Aim to simulate and document helpdesk scenarios, such as password resets and modifying group memberships.
 
 
 
